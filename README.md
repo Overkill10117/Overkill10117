@@ -34,6 +34,8 @@ Unstable | `.spam` | giveaway command `.start`
 
 [![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=banner4)](https://discord.gg/fqkxJjY4yM)
 
+### Random Stuff
+If you know how to make a bot active for 24/7 please tell me `thank you`
 
 ## **Credits**
 ```markdown
