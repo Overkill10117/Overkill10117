@@ -8,7 +8,7 @@
 
 ### Stuff I use:
 <p align="left">
-<a href="https://www.jetbrains.com/idea/"><img align="left" alt="IntelliJ IDEA" width="40" src="https://media.discordapp.net/attachments/821661501038919721/821666754539028500/idea-edu.png" /></a> <a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/"><img align="left" alt="IntelliJ IDEA" width="40" src="https://media.discordapp.net/attachments/798062438553485333/844816336311549962/1024px-IntelliJ_IDEA_Icon.png?width=465&height=465" /></a> 
 <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>  
