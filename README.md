@@ -4,7 +4,8 @@
 
 
 ### Join my server:
-[![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=shield)](https://discord.gg/fqkxJjY4yM)
+
+[![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=banner2)](https://discord.gg/fqkxJjY4yM)
 
 ### Stuff I use:
 <p align="left">
