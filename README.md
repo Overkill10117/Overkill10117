@@ -20,7 +20,7 @@
 </p>
 
 ## :zap: GitHub Stats<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overkill10117&show_icons=true&theme=radical)
+![lol](https://github-readme-stats.vercel.app/api?username=Overkill10117&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overkill10117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Discord Bot
 # Spam Bot Server `2.0`
