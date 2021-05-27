@@ -2,6 +2,8 @@
 
 :scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream::scream:
 
+### Random Info
+`lol`
 
 ### Join my server:
 
