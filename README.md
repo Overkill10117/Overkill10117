@@ -24,6 +24,7 @@
 ## :zap: GitHub Stats<br />
 ![lol](https://github-readme-stats.vercel.app/api?username=Overkill10117&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overkill10117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://metrics.lecoq.io/Overkill10117?template=classic&isocalendar=1&lines=1&code=1&notable=1&isocalendar.duration=full-year&notable.repositories=false&code.lines=12&code.load=100&code.visibility=public&config.timezone=Asia%2FManila&config.twemoji=true)
 
