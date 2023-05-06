@@ -8,7 +8,6 @@
 ### Join my server:
 
 [![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=banner2)](https://discord.gg/fqkxJjY4yM)
-[![Overkill10117's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overkill10117)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stuff I use:
 <p align="left">
@@ -25,6 +24,8 @@
 ## :zap: GitHub Stats<br />
 ![lol](https://github-readme-stats.vercel.app/api?username=Overkill10117&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overkill10117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overkill10117&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overkill10117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://metrics.lecoq.io/Overkill10117?template=classic&isocalendar=1&lines=1&code=1&notable=1&isocalendar.duration=full-year&notable.repositories=false&code.lines=12&code.load=100&code.visibility=public&config.timezone=Asia%2FManila&config.twemoji=true)
