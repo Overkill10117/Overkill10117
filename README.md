@@ -8,6 +8,7 @@
 ### Join my server:
 
 [![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=banner2)](https://discord.gg/fqkxJjY4yM)
+[![Overkill10117's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overkill10117)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stuff I use:
 <p align="left">
